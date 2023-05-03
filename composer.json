@@ -1,0 +1,16 @@
+{
+    "name": "laravel/laravel",
+    "description": "The Laravel Framewok",
+    "type": "laravel",
+    "require-dev": {
+        "lib-icu-zoneinfo": "2"
+    },
+    "license": "MIMT",
+    "autoload": {
+        "psr-4": {
+            "Laravel\\Laravel\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
